@@ -1,9 +1,11 @@
-# Adopter Categories and Customer Acquisition Costs
+      Innovators        Early          Early          Late          Laggards
+        (2.5%)         Adopters       Majority       Majority        (16%)
+                        (13.5%)        (34%)          (34%)
 
-| **Adopter Category**   | **Who They Are**                                     | **% of Customers** | **Target Customers (Annual)** | **Acquisition Cost Per Customer** | **Total Acquisition Cost (Annual)** | **Marketing Strategies**                                   |
-|-------------------------|-----------------------------------------------------|--------------------|------------------------------|------------------------------------|-------------------------------------|----------------------------------------------------------|
-| **Innovators**          | People who like to try new things first             | 2.5%              | 71,380                      | $200                              | $14,276,000                        | Influencer partnerships, VR app previews, immersive ads  |
-| **Early Adopters**      | People interested in health and wellness, like parents or professionals | 13.5%             | 385,452                     | $150                              | $57,817,800                        | Email campaigns, social media ads, early-bird discounts  |
-| **Early Majority**      | People who wait to see if something works for others | 34%               | 970,768                     | $100                              | $97,076,800                        | Testimonials, alumni promotions, loyalty program outreach |
-| **Late Majority**       | People who are careful with spending and need good deals | 34%               | 970,768                     | $75                               | $72,807,600                        | Referral discounts, group booking deals, targeted ads    |
-| **Laggards**            | People who don’t like trying new things unless someone recommends it | 16%               | 456,832                     | $50                               | $22,841,600                        | Word-of-mouth marketing, alumni endorsements, promotions |
+         |                 |              |              |             |
+         |   /\            |              |              |             |
+         |  /  \           |              |              |             |
+         | /    \          |              |              |             |
+         |/      \         |              |              |             |
+         /        \        |              |              |             |
+        /          \       |              |              |             |
